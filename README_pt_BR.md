@@ -4,7 +4,7 @@ O componente `syrin-make-audio-tts` gera e gerencia notificações de áudio hum
 
 ## Demo
 
-![Application Demo](./driagrams/Syrin-Make-Audio-TTS.gif)
+![Application Demo](./diagram/Syrin-Make-Audio-TTS.gif)
 
 ## Tabela de Conteúdos
 - [Instalação](#instalação)

@@ -4,7 +4,7 @@ The `syrin-make-audio-tts` component generates and manages humanized audio notif
 
 ## Demo
 
-![Application Demo](./driagrams/Syrin-Make-Audio-TTS.gif)
+![Application Demo](./diagram/Syrin-Make-Audio-TTS.gif)
 
 ## Table of Contents
 - [Installation](#installation)
